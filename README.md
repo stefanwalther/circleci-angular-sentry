@@ -254,9 +254,8 @@ Sentry.init({
 
 * [twitter.com/waltherstefan](http://twitter.com/waltherstefan)  
 * [github.com/stefanwalther](http://github.com/stefanwalther) 
-* [linkedin.com/in/stefanwalther](https://www.linkedin.com/in/stefanwalther/)  
-* [stefanwalther.io](http://stefanwalther.io) - Private blog
-
+* [linkedin.com/in/stefanwalther](https://www.linkedin.com/in/stefanwalther/)
+  
 ### Contributing
 Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/stefanwalther/circleci-angular-sentry/issues). The process for contributing is outlined below:
 
